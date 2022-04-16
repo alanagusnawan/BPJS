@@ -1,1 +1,1 @@
-Ini adalah isi text
+Ini isi text
